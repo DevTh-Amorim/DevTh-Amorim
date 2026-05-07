@@ -1,42 +1,77 @@
+<!-- Banner -->
+<img width="100%" src="https://github.com/DevTh-Amorim/DevTh-Amorim/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DevTh-Amorim/DevTh-Amorim/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<h1 align="center">Olá 👋, eu sou Thiago Amorim</h1>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevTh-Amorim&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-DevTh-Amorim.vercel.app/api/top-langs/?username=DevTh-Amorim&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<p align="center">
+💻 Desenvolvedor Back-End Java <br>
+🚀 Estudando novas tecnologias e construindo projetos <br>
+📚 Focado em Java, APIs REST e desenvolvimento web
+</p>
 
+---
 
+## 📊 Estatísticas GitHub
 
-## My Skills
+<div align="center">
 
-#### Main Stack:
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DevTh-Amorim&theme=radical&mode=weekly" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTh-Amorim&layout=compact&theme=radical"/>
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+</div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+---
 
-#### Secondary Stack:
+## 🚀 Tecnologias
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+### 🔥 Main Stack
 
+<div style="display: inline_block">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-#### Workstation Tools:
+</div>
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+---
 
-&nbsp;
-&nbsp;
+### 📚 Atualmente Estudando
 
+<div style="display: inline_block">
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</div>
+
+---
+
+### 🛠 Ferramentas
+
+<div style="display: inline_block">
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
