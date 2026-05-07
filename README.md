@@ -6,7 +6,7 @@
 <p align="center">
 💻 Desenvolvedor Back-End Java <br>
 🚀 Estudando novas tecnologias e construindo projetos <br>
-📚 Focado em Java, APIs REST e desenvolvimento web
+📚 Focado em Java, APIs REST, Spring Boot e desenvolvimento web
 </p>
 
 ---
@@ -42,7 +42,6 @@
 
 <div style="display: inline_block">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 </div>
