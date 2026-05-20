@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/thiago-amorim-b06297220/)">
+<a href="https://www.linkedin.com/in/thiago-amorim-b06297220/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
